@@ -1,0 +1,6 @@
+logs/
+venv/
+export.xml	
+.env
+healthkit_steps
+EOF
